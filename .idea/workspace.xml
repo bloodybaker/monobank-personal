@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef7c3557-076f-40df-9224-8437f5cc6beb" name="Default Changelist" comment="" />
+    <list default="true" id="ef7c3557-076f-40df-9224-8437f5cc6beb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/monobot.js" beforeDir="false" afterPath="$PROJECT_DIR$/monobot.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jL4CzjPe1WK8ENpmrDkhdSiMFf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603569914805</updated>
-      <workItem from="1603569916345" duration="4748000" />
+      <workItem from="1603569916345" duration="5113000" />
     </task>
     <servers />
   </component>
@@ -63,21 +69,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603570546490" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1603574924764">
+    <state x="811" y="417" key="Github.ShareDialog" timestamp="1603575274955">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603574924764" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1603574924763">
+    <state x="811" y="417" key="Github.ShareDialog/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603575274955" />
+    <state x="732" y="217" key="Github.UntrackedFilesDialog" timestamp="1603575281223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603574924763" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1603574924763">
+    <state x="732" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603575281223" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1603575236435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603574924763" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1603574924763">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603575236435" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1603575236434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603574924763" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603575236434" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1603575236434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603575236434" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1603575236434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.208.1280.984@0.0.1920.1040" timestamp="1603575236434" />
   </component>
 </project>

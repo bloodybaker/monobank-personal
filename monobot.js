@@ -1,5 +1,5 @@
 const Telegraf = require('telegraf')
-const bot = new Telegraf('token')
+const bot = new Telegraf('1354795701:AAFrMR0o9hUX6PKqA22ETmQ8KdkEIbjj7yo')
 const request = require("request")
 const fs = require('fs')
 const URL_PERSONAL = "https://api.monobank.ua/personal/client-info";
