@@ -51,7 +51,7 @@ bot.command("/balance",(ctx) => {
                 for(var i = 0; i < data.accounts.length; i++){
                     if(data.accounts[i].currencyCode === 980){
                         return ctx.reply(data.name + "\n" +
-                            "🤑 Ваш баланс: " + data.accounts[2].balance/100
+                            "🤑 Ваш баланс: " + data.accounts[0].balance/100
                         )
                     }
                 }
