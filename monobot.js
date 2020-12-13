@@ -1,5 +1,5 @@
 const Telegraf = require('telegraf')
-const bot = new Telegraf('1354795701:AAFrMR0o9hUX6PKqA22ETmQ8KdkEIbjj7yo')
+const bot = new Telegraf('1263704945:AAGY-1r0VL5Mn-zG0jg4j3mxtQE7I86kOOM')
 const request = require("request")
 const fs = require('fs')
 const URL_PERSONAL = "https://api.monobank.ua/personal/client-info";
@@ -20,7 +20,7 @@ var download = function(uri, filename, callback){
 };
 bot.start((ctx) => {
     ctx.reply("Добро пожаловать. Вы авторизованы как: " + ctx.from.first_name + " " + ctx.from.last_name);
-    return ctx.reply("Напишите /info для получения информации");
+    return ctx.reply("Напишите /info для получения информации " + ctx.message.chat.id) ;
 })
 bot.command("/info",(ctx) => {
     if(isAuth() === false){

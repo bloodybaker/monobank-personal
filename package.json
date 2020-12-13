@@ -13,6 +13,7 @@
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
     "https": "^1.0.0",
+    "mysql": "^2.18.1",
     "request": "^2.88.2",
     "telegraf": "^3.38.0",
     "vb": "0.0.0"
